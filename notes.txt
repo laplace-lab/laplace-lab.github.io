@@ -1,0 +1,26 @@
+home >
+  - about
+    - people
+  - research
+    - Lab publications
+    - COVID 19 research using Stan
+  - lab resources
+    - Funding <google drive folder per funding source>
+    - 
+  - teaching
+  - outreach
+
+Google Drive
+Funding:
+  Funder
+  PI
+  Effort by person
+  Proposal text
+  Funding agreement
+  Dates for progress reports, status, start/end
+  Subcontracts
+
+In draft:
+
+Staff:
+  Allocations by effort bimonthly--need summary by person
